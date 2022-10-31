@@ -1,2 +1,2 @@
-# FD-for-SINS
-**target**: a project for sins intergrated navigation system **fault diagnosis** method.
+# Fault Diagnosis for integrated naivgation system
+**target**: a project for sins integrated navigation system **fault diagnosis** method.
